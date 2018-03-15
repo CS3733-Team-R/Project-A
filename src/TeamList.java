@@ -6,6 +6,7 @@ public class TeamList {
     System.out.println("Rory Sullivan");
     System.out.println("Joe Bartone");
     System.out.println("Tabitha Gibbs");
+    System.out.println("Sylvia van der Weide");
   }
 }
 
