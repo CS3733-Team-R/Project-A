@@ -5,3 +5,4 @@ public class TeamList {
     System.out.println("Leo Belyi");
   }
 }
+
