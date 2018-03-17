@@ -10,6 +10,7 @@ public class TeamList {
     System.out.println("Janette Fong. Sophomore");
     System.out.println("Sylvia van der Weide");
     System.out.println("Mitchell Burns. Sophomore");
+    System.out.println("Alp Piskin. Sophomore");
   }
 }
 
