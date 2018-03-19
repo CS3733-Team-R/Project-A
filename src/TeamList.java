@@ -3,7 +3,7 @@ public class TeamList {
   {
     System.out.println("Tim Winters. Sophomore");
     System.out.println("Leo Belyi");
-    System.out.println("Rory Sullivan");
+    System.out.println("Rory Sullivan.Freshman");
     System.out.println("Meghan Flynn");
     System.out.println("Joe Bartone.Sophmore");
     System.out.println("Tabitha Gibbs");
